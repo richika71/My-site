@@ -1,0 +1,39 @@
+html {
+    background-color: rgb(227, 255, 227);
+}
+.header {
+    background-color: rgb(251, 182, 217);
+    height: 85px;
+    color: rgba(255, 255, 255, 0.911); 
+}
+.header-logo {
+    float: left;
+    padding: 1px 40px 5px 15px;
+    font-family:"Lucida Grande";
+    font-size: 20px;
+}
+.header-logo span{
+    font-size: 20px;
+}
+.header-list li {
+    list-style: none;
+    float: left;
+    padding: 55px 2px 2px 3px;
+    font-size: 12px;
+}
+.copy-container h2{
+    color:rgb(71, 110, 150); 
+    border-bottom: 2px solid rgb(71, 110, 150);
+    font-size: 45px;
+}
+.contents-item h3 {
+    color:rgb(71, 110, 150); 
+    border-bottom: 1px solid rgb(71, 110, 150);
+}
+.contents-item  {
+    border-bottom: 1px solid rgb(71, 110, 150);
+    color:rgb(122, 175, 248)
+}
+.contact-form h3{
+    color:rgb(0, 124, 95)
+}
